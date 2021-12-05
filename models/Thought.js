@@ -29,3 +29,7 @@ const ThoughtSchema = new Schema(
         id: false
     }
 );
+
+
+
+module.exports = Thought;
