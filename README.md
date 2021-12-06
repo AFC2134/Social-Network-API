@@ -11,6 +11,10 @@
 
   ## Description
    This is an api which uses MongoDB, express, node, and graphql
+   
+  ## YOUTUBE WALKTHROUGH 
+  https://www.youtube.com/watch?v=hnPem8cOVAM
+  
 
   ## Installation
     go to my github repository listed below, git clone, run npm install to pull down all dependecies. Run the command "node server.js" from the teriminal to turn on localhost3001
